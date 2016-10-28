@@ -1,0 +1,50 @@
+a
+{
+  color: darkviolet;
+  font-style: italic;
+}
+header
+{
+  font-family: arial;
+  border-left: 6px solid red;
+  border-radius: 12px;
+  font-size: 135%;
+}
+body
+{
+  background-color: lightgrey;
+  color:  navy;
+}
+h2
+{
+  color: navy;
+  font-family: verdana black;
+  font-size: 22px;
+  text-decoration: underline;
+  border-style: dotted dashed dotted dashed;
+}
+.LINKS
+{
+  list-style-type: square;
+}
+li
+{
+  color:  black;
+}
+p
+{
+    border-left: 4px dashed;
+    font-family: verdana;
+    font-size: 15px;
+}
+img
+{
+  height: 250;
+  width: 450;
+  border: 8px double black;
+}
+article
+{
+  font-family: times;
+  color: black;
+}
